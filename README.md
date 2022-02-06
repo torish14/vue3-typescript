@@ -22,3 +22,6 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Reference
+[Reference URL](https://reffect.co.jp/vue/vue3-typescript)
